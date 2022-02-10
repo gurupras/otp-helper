@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:gurupras/otp-helper-backend
+[submodule "webui"]
+	path = webui
+	url = git@github.com:gurupras/otp-helper-webui

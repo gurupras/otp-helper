@@ -1,0 +1,2 @@
+/android/key.properties filter=git-crypt diff=git-crypt
+/otp.gurupras.me.keystore filter=git-crypt diff=git-crypt

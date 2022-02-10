@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208696843600",
+    "project_id": "otp-helper-5c776",
+    "storage_bucket": "otp-helper-5c776.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208696843600:android:12f6c65a1c8eabafa4a055",
+        "android_client_info": {
+          "package_name": "me.gurupras.otp_helper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208696843600-qgvcigdk2d6pcnjg9hrf06hj430deldi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkvGdyiy3gDm899m_3zVerCfxWXn5whHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208696843600-qgvcigdk2d6pcnjg9hrf06hj430deldi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_id">notifications</string>
+    <string name="firebase_push_notifications_channel">server-push</string>
+    <string name="notification_title">OTP Helper</string>
+    <string name="notification_message">Starting services ...</string>
+</resources>
